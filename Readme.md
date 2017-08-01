@@ -6,4 +6,5 @@
 5. Git
 6. Watched some Youtubes
 7. this is a test
+8. Javascript
 # Lessons-Learned
